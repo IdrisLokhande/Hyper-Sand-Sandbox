@@ -21,7 +21,6 @@ Cellular-automata physics
 CanvasRenderer
 ```
 
-```text
+
 (Will post detailed flow soon)
 This was made initially in 3 days during a vibe coding session to explore ChatGPT Codex. More serious development will be done later.
-```
